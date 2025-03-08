@@ -54,7 +54,7 @@ python Code.py
 
 ## 📸 Sample Visuals
 📌 **Positive Word Cloud**  
-![Positive Word Cloud](assests/Postive_wordcloud.png)  
+![Positive Word Cloud](assests/Positive_wordcloud.png)  
 
 📌 **Negative Word Cloud**  
 ![Negative Word Cloud](assests/Negative_wordcloud.png)  
