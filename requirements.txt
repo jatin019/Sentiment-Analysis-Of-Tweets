@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+textblob
+requests
+tweepy
+jupyter  # If using Jupyter Notebook
