@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 ### 3. Run the Analysis Script
 ```bash
-python sentiment_analysis.py
+python Code.py
 ```
 ### 4. View Results
 - Sentiment distribution graphs
@@ -54,10 +54,10 @@ python sentiment_analysis.py
 
 ## 📸 Sample Visuals
 📌 **Positive Word Cloud**  
-![Positive Word Cloud](assets/Postive_worldcloud.png)  
+![Positive Word Cloud](assets/Postive_wordcloud.png)  
 
 📌 **Negative Word Cloud**  
-![Negative Word Cloud](assets/Negative_worldcloud.png)  
+![Negative Word Cloud](assets/Negative_wordcloud.png)  
 
 📌 **Sentiment Distribution Graph**  
 ![Bar Graph](assets/sentiment_graph.png)  
