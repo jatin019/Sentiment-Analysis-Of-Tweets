@@ -54,13 +54,13 @@ python Code.py
 
 ## 📸 Sample Visuals
 📌 **Positive Word Cloud**  
-![Positive Word Cloud](assets/Postive_wordcloud.png)  
+![Positive Word Cloud](assests/Postive_wordcloud.png)  
 
 📌 **Negative Word Cloud**  
-![Negative Word Cloud](assets/Negative_wordcloud.png)  
+![Negative Word Cloud](assests/Negative_wordcloud.png)  
 
 📌 **Sentiment Distribution Graph**  
-![Bar Graph](assets/sentiment_graph.png)  
+![Bar Graph](assests/sentiment_graph.png)  
 
 
 ## 📬 Contact
